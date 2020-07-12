@@ -1,0 +1,7 @@
+{
+  "name": "cost-of-living",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
